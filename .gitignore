@@ -1,0 +1,18 @@
+# OS Generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache & venv
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Large temporary binaries
+*.ova
+*.iso
+*.rar
+*.zip
+*.tar.gz
